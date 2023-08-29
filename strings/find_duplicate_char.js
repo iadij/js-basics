@@ -29,3 +29,5 @@ function findDuplicateCharV1(value)
     return duplicates
 }
 console.log(findDuplicateCharV1("helllo"))
+
+console.log("test");
